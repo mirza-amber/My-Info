@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mirza-amber
+- 👀 I’m interested in Coding, Football, Chess and MMA
+- 🌱 I’m currently learning about Python.
+- 💞️ I’m looking to collaborate on Data Analysis and Front End Porjects.
+- 📫 How to reach me https://www.linkedin.com/in/amber-mirza-175150170/
