@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mirza-amber
+- 👋 Hi, I’m Amber Mirza
 - 👀 I’m interested in Coding, Football, Chess and MMA
 - 🌱 I’m currently learning about Python.
 - 💞️ I’m looking to collaborate on Data Analysis and Front End Porjects.
